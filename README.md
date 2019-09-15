@@ -1,5 +1,10 @@
 # fall2019-A1nucleotides
 
+Instructions:
+-Compile main.cpp with g++
+-Run the compiled .out file with one command line argument formatted as so: '____.txt' (EX: './a.out foo.txt')
+-Open Malashock.out to see statistics and generated lines of code
+
 References:
 https://stackoverflow.com/questions/7868936/read-file-line-by-line-using-ifstream-in-c to get the txt file to import
 http://www.cplusplus.com/reference/cctype/tolower/ to convert all chars to lowercase
